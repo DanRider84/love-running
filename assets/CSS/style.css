@@ -200,6 +200,14 @@ main {
     color: #fafafa;
 }
 
+/* Gallery page */
+#photos img {
+    width: 100%;
+}
+
+#photos {
+    line-height: 0;
+}
    
 
 
